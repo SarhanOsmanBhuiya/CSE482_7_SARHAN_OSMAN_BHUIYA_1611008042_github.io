@@ -5,8 +5,8 @@
 </head>
 <style type="">
 	
-.container{
-	text-align: center;
+.bod{
+	border-bottom: 1px solid black;
 }
 
 
@@ -19,7 +19,12 @@
 
 <div class="container">
 	
-	<h2></h2>
+	<br><br>
+	<h2 class="bod">About the Lecture</h2>
+	<p>CSS is used to control the style of a web document in a simple and easy way. CSS stands
+		for Cascading Style Sheets. This tutorial covers both the versions CSS1 and CSS2 and
+		gives a complete understanding of CSS, starting from its basics to advanced concepts. 
+	</p>
 
 </div>
 
