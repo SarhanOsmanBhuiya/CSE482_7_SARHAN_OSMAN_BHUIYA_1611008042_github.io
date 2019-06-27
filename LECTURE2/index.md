@@ -9,7 +9,13 @@
 	border-bottom: 1px solid black;
 }
 
-
+.head{
+	text-align: center;
+	color: white;
+	background-color: #D34776;
+	padding:20px;
+	border-radius: 5px;
+}
 
 </style>
 
