@@ -1,33 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
 </head>
-<style type="">
-	
-.container{
-	text-align: center;
-}
-
-h1{
-	background-color:#373A3C;
-	color: white;
-	font-weight: bolder;
-	width: 100%;
-	border-radius: 5px;
-	padding: 3px;
-}
-
-h2{
-	background-color: #45D1D1;
-	color: white;
-	font-weight: bolder;
-	width: 100%;
-	border-radius: 5px;
-	padding: 3px;
-}
-
-</style>
 
 
 <body>
