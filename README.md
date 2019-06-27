@@ -45,7 +45,9 @@
 </div>
 
 <div
-	<h1> <a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/HOMEWORKS/HOMEWORK-1/index.md">HOMEWORK-1</a></h1>	
+	<h1>Link of the Homework given after first class 
+		<a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/HOMEWORKS/HOMEWORK-1/index.md">HOMEWORK-1</a>
+	</h1>	
 </div>
 
 
