@@ -40,7 +40,7 @@
 			<br><b>Classroom: LIB605  
 			<br><br><br>
  			Piazza Access Code: <a href="https://piazza.com/?">cse482aan </a> </b><br><br>
- 			 
+	</p>	 
  			
 </div>
 
