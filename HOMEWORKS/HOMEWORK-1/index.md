@@ -35,25 +35,14 @@ h2{
 
 
 <div class="container">
-
 	<div class="row">
-
 		<div class="class="background col-md-8 col-md-offset-2"">
-			
 			<h1>HOME WORK-1 BASIC HTML PRACTICE</h1>
-
 			<h2>HEADER AND PARAGRAPH</h2>
-	
 			<img src="Screenshot_1.png" width="100%"> 
-
 			<br><br>
-
-
-
 			<h2>LINK REFERENCE</h2>
-	
 			<img src="Screenshot_2.png" width="100%"> 
-
 			<br><br>
 
 
