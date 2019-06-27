@@ -33,6 +33,26 @@
 		<p>
 			Both the HTML and CSS section will be cover here
 		</p>
+		<br><br>
+	<h2 class="bod">
+		Prerequisites
+	</h2>
+		<p>
+			You should be familiar with:
+			<ul>
+			  <li>Basic word processing using any text editor.
+</li>
+			  <li>How to create directories and files.</li>
+			  <li>How to navigate through different directories</li>
+			  <li>Internet browsing using popular browsers like Internet Explorer or Firefox.</li>
+			  <li>Developing simple Web Pages using HTML or XHTML.</li>
+			</ul>  
+			If you are new to HTML and XHTML, then we would suggest you to go through our HTML
+			Tutorial or XHTML Tutorial first.
+		</p>
+		<br><br><br><br>
+		<h1 class="head">1. CSS ─ OVERVIEW</h1>
+
 
 </div>
 
