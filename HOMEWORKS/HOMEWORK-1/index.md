@@ -33,12 +33,6 @@ h2{
 <body>
 
 
-<div class="container">
-
-	<div class="row">
-
-		<div class="class="background col-md-8 col-md-offset-2"">
-			
 			<h1>HOME WORK-1 BASIC HTML PRACTICE</h1>
 
 			<h2>HEADER AND PARAGRAPH</h2>
@@ -169,13 +163,10 @@ h2{
 
 			
 
-		</div>
 		
-	</div>
 
 		<h1>THANK YOU</h1>
 
-</div>
 
 </body>
 </html>
