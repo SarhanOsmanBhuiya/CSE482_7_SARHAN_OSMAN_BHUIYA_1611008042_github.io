@@ -171,7 +171,48 @@ span{
 						the name of any element type: <br><br>
 						<span>* {color: #000000;}</span> <br><br>This rule renders the content of every element in our document in black.
 					</p>
-
+					<br><br>
+					<h2 class="bod">
+						The Type Selectors
+					</h2>
+					<p>
+						This is the same selector we have seen above. Again, one more example to give a color to all
+						level 1 headings: <br><br>
+						<span>h1 {color: #36CFFF;}</span>
+					</p>
+					<br><br>
+					<h2 class="bod">
+						The Descendant Selectors
+					</h2>
+					<p>
+						Suppose you want to apply a style rule to a particular element only when it lies inside a
+						particular element. As given in the following example, the style rule will apply to em
+						element only when it lies inside the ul tag.
+						<br><br>
+						<span>ul em {color: #000000;}</span> 
+					</p>
+					<br><br>
+					<h2 class="bod">
+						The Class Selectors
+					</h2>
+					<p>
+						You can define style rules based on the class attribute of the elements. All the elements having
+						that class will be formatted according to the defined rule.
+						<br><br>
+						<span>.black {
+						 color: #000000;
+						}
+						</span> <br><br>
+						This rule renders the content in black for every element with class attribute set to black in our
+						document. You can make it a bit more particular. For example:<br><br>
+						<span>h1.black {
+						 color: #000000;
+						}</span><br><br>
+						This rule renders the content in black for only h1 elements with class attribute set to black. <br>
+						You can apply more than one class selectors to a given element. Consider the following
+						example:<br><br>
+						<span>This para will be styled by the classes center and bold.</span>
+					</p>
 
 
 </div>
