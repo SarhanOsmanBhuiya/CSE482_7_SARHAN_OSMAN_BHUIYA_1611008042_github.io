@@ -18,7 +18,6 @@
 <body>
 
 <div class="container">
-	
 	<br><br>
 	<h2 class="bod">About the Lecture</h2>
 	<p>CSS is used to control the style of a web document in a simple and easy way. CSS stands
