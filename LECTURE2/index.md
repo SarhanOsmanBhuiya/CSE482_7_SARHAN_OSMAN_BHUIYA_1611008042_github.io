@@ -110,7 +110,7 @@
 					These ratified specifications are called recommendations because the W3C has no control over
 					the actual implementation of the language. Independent companies and organizations create
 					that software. <br> <br>
-					NOTE: The World Wide Web Consortium or W3C is a group that makes recommendations
+					<b>NOTE:</b> The World Wide Web Consortium or W3C is a group that makes recommendations
 					about how the Internet works and how it should evolve.
 									</p>
 				<br><br>
