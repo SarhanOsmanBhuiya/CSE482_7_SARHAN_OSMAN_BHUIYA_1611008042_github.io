@@ -213,6 +213,51 @@ span{
 						example:<br><br>
 						<span>This para will be styled by the classes center and bold.</span>
 					</p>
+					<br><br>
+					<h2 class="bod">
+						The ID Selectors
+					</h2>
+					<p>
+						You can define style rules based on the id attribute of the elements. All the elements having
+						that id will be formatted according to the defined rule.
+						<br><br>
+						<span>.black {
+						 color: #000000;
+						}
+						</span> <br><br>
+						This rule renders the content in black for every element with id attribute set to black in our
+						document. You can make it a bit more particular. For example:
+						<br><br>
+						<span>h1.black {
+						 color: #000000;
+						}</span><br><br>
+						This rule renders the content in black for only h1 elements with id attribute set to black.
+						The true power of id selectors is when they are used as the foundation for descendant
+						selectors. For example:<br><br>
+						<span>#black h2 {
+						 color: #000000;
+						}
+						</span><br><br>
+						In this example, all level 2 headings will be displayed in black color when those headings will
+						lie within tags having id attribute set to black.
+					</p>
+					<br><br>
+					<h2 class="bod">
+						The Child Selectors
+					</h2>
+					<p>
+						You have seen the descendant selectors. There is one more type of selector, which is very
+						similar to descendants but have different functionality. Consider the following example:
+						<br><br>
+						<span>body > p {
+							 color: #000000;
+							}
+						</span><br><br>
+						This rule will render all the paragraphs in black if they are a direct child of the body
+						element. Other paragraphs put inside other elements like div or td would not have any
+						effect of this rule.
+					</p>
+
 
 
 </div>
