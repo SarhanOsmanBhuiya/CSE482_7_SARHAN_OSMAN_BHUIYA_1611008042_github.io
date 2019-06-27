@@ -11,7 +11,7 @@
 
 			<h2>HEADER AND PARAGRAPH</h2>
 	
-			<img src="Screenshot_1.png" width="100%"> 
+			<img src="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/image/Screenshot_1.png" width="100%"> 
 
 			<br><br>
 
