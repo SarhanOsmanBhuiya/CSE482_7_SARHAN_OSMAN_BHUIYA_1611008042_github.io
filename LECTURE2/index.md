@@ -19,11 +19,20 @@
 
 <div class="container">
 	<br><br>
-	<h2 class="bod">About the Lecture</h2>
-	<p>CSS is used to control the style of a web document in a simple and easy way. CSS stands
-		for Cascading Style Sheets. This tutorial covers both the versions CSS1 and CSS2 and
-		gives a complete understanding of CSS, starting from its basics to advanced concepts. 
-	</p>
+	<h2 class="bod">
+		About the Lecture
+	</h2>
+		<p>CSS is used to control the style of a web document in a simple and easy way. CSS stands
+			for Cascading Style Sheets. This tutorial covers both the versions CSS1 and CSS2 and
+			gives a complete understanding of CSS, starting from its basics to advanced concepts. 
+		</p>
+		<br><br>
+	<h2 class="bod">
+		HTML and CSS
+	</h2>
+		<p>
+			Both the HTML and CSS section will be cover here
+		</p>
 
 </div>
 
