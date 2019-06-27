@@ -47,7 +47,13 @@
 <div
 	<h1>Link of the Homework given after first class 
 		<a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/HOMEWORKS/HOMEWORK-1/index.md">HOMEWORK-1</a>
-	</h1>	
+	</h1>
+	<h1>Link for Task2 pdf content written in HTML in the file Lecture2
+		<a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/LECTURE2/index.md">HOMEWORK-1</a>
+	</h1>
+	<h1>Link of the Checkpoint-1
+		<a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/tree/master/Checkpoint1">HOMEWORK-1</a>
+	</h1>
 </div>
 
 
