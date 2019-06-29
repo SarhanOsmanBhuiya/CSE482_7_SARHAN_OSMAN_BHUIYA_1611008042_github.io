@@ -5,6 +5,13 @@
 	<title></title>
 </head>
 <style>
+	
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin-left: 150px;
+  font-size: 15px;
+}
 
 .heading{
 	text-align:left;
@@ -55,6 +62,40 @@
 	<h3>Link of the Checkpoint-1
 		<a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/tree/master/Checkpoint1">Checkpoint-1</a>
 	</h3>
+	
+	<table style="width:40%">
+				  <tr>
+				    <th>Class Attendance</th>
+				    <th>10%</th> 
+				  </tr>
+				  
+				  <tr>
+				    <th>Lab Assessment: </th>
+				    <th>10%</th> 
+				  </tr>
+
+				   <tr>
+				    <th>*Project:</th>
+				    <th>20%</th> 
+				  </tr>
+
+				   <tr>
+				    <th>Quiz (two):</th>
+				    <th>10%</th> 
+				  </tr>
+
+				   <tr>
+				    <th>Midterm Exam: </th>
+				    <th>20%</th> 
+				  </tr>
+
+				   <tr>
+				    <th>Final: </th>
+				    <th>30%</th> 
+				  </tr>
+
+				  
+				</table>
 </div>
 
 
