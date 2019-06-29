@@ -52,7 +52,7 @@ table, th, td {
 </div>
 
 <div>
-	<table style="width:40%">
+	<table style="width:100%">
 		<tr>
 			<th>CONTENT</th>
 			<th>LINKS</th> 
