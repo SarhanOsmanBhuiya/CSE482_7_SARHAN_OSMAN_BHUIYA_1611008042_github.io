@@ -20,6 +20,8 @@
 span{
 	border: 1px solid black;
 	padding: 6px;
+	background-color: #F1F8FF;
+	font-weight: bolder;
 }
 
 #para{
@@ -265,6 +267,36 @@ text-transform: lowercase;
 						element. Other paragraphs put inside other elements like div or td would not have any
 						effect of this rule.
 					</p>
+					<br><br><br>
+						<h1 class="head">3.CSS ─ INCLUSION</h1>
+						<br><br><br>
+						<h2 class="bod">
+							Embedded CSS - The Style Element
+						</h2>
+							<p>
+								You can put your CSS rules into an HTML document using the style element. This tag is placed inside the head>.../head> tags. Rules defined using this syntax will be applied to all the elements available in the document. Here is the generic syntax: <br> <br>
+								<span>
+									((head
+								style type="text/css" media="...">
+								Style Rules
+								............
+								style
+								head))
+							</span>
+							</p>
+							<br><br>
+						<h2 class="bod">
+							CSS Rules Overriding
+						</h2>
+							<p>
+								We have discussed four ways to include style sheet rules in an HTML document. Here is the rule to override any Style Sheet Rule. <br><br>
+								<ul>
+								  <li>Any inline style sheet takes the highest priority. So, it will override any rule defined in<style>...</style> tags or the rules defined in any external style sheet file.</li>
+								  <li>Any rule defined in <style>...</style> tags will override the rules defined in anyexternal style sheet file.</li>
+								  <li>Any rule defined in the external style sheet file takes the lowest priority, and the rulesdefined in this file will be applied only when the above two rules are not applicable.</li>
+								</ul>  
+							</p>
+							<br><br>
 
 
 
