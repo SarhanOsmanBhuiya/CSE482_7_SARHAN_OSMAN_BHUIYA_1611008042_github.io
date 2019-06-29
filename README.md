@@ -64,7 +64,7 @@ table, th, td {
 		</tr>
 		<tr>
 			<th><h3>Link for Task2 pdf content written in HTML in the file Lecture2</h3></th>
-			<th><h3><a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/LECTURE2/index.md">Lecture-2</a></h3></th> 
+			<th><h3><a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/LECTURE2/index.md">LECTURE-2</a></h3></th> 
 		</tr>
 		<tr>
 			<th><h3>Link of the Checkpoint-1</h3></th>
