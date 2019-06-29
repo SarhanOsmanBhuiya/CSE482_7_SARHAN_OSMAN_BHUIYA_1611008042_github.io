@@ -19,7 +19,15 @@
 
 span{
 	border: 1px solid black;
-	padding: 4px;
+	padding: 6px;
+}
+
+#para{
+color: pink;
+font-weight: normal;
+letter-spacing: .10em;
+margin-bottom: 1px;
+text-transform: lowercase;
 }
 
 </style>
@@ -61,9 +69,9 @@ span{
 			If you are new to HTML and XHTML, then we would suggest you to go through our HTML
 			Tutorial or XHTML Tutorial first.
 		</p>
-		<br><br><br><br><br>
+		<br><br><br>
 		<h1 class="head">1. CSS ─ OVERVIEW</h1>
-		<br><br><br><br><br>
+		<br><br><br>
 		<h2 class="bod">
 			What is CSS?
 		</h2>
@@ -130,9 +138,9 @@ span{
 						support for media-specific style sheets e.g. printers and aural devices, downloadable fonts,
 						element positioning and tables.
 					</p>
-					<br><br><br><br><br>
+					<br><br><br>
 					<h1 class="head">2. CSS ─ SYNTAX</h1>
-					<br><br><br><br><br>
+					<br><br><br>
 					<p>A CSS comprises of style rules that are interpreted by the browser and then applied to the
 					corresponding elements in your document. A style rule is made of three parts:
 					<ul>
