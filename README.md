@@ -68,7 +68,7 @@ table, th, td {
 		</tr>
 		<tr>
 			<th><h3>Link of the Checkpoint-1</h3></th>
-			<th><h3><a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/Checkpoint1/UML%20DIAGRAM.jpg</a></h3></th> 
+			<th><h3><a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/Checkpoint1/UML%20DIAGRAM.jpg</a>CHECKPOINT-1</h3></th> 
 		</tr>
 				</table>
 </div>
