@@ -32,6 +32,14 @@ margin-bottom: 1px;
 text-transform: lowercase;
 }
 
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  margin-left: 150px;
+  font-size: 15px;
+  	text-align: center;
+}
+
 </style>
 
 <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -297,8 +305,135 @@ text-transform: lowercase;
 								</ul>  
 							</p>
 							<br><br>
-
-
+							<h2 class="bod">
+							Handling Old Browsers
+							</h2>
+							<p>There are still many old browsers who do not support CSS. So, we should take care while writing our Embedded CSS in an HTML document. The following snippet shows how to use comment tags to hide CSS from older browsers:</p><br>
+							<span>style type="text/css"><!--body, td {color: blue;}-->/style></span>
+							<br><br><br>
+							<h2 class="bod">
+							CSS Comments
+							</h2>
+							<p>Many times, you may need to put additional comments in your style sheet blocks. So, it is very easy to comment any part in the style sheet. You can simply put your comments inside /*.....this is a comment in style sheet.....*/.You can use /* ....*/ to comment multi-line blocks in similar way you do in C and C++ programming languages.</p><br>
+							<b>Example</b><br><br>
+							<span>/* This is an external style sheet file */</span><br><br>
+							<span>h1, h2, h3 {
+							color: #36C;
+							font-weight: normal;
+							letter-spacing: .4em;
+							margin-bottom: 1em;
+							text-transform: lowercase;
+							}
+							/* end of style rules. */</span>
+							<br><br><br>
+							<br>
+							<h1 class="head">4.CSS ─ MEASUREMENT UNITS</h1>
+							<br><br><br>
+							<p>Before we start the actual exercise, we would like to give a brief idea about the CSS Measurement Units. CSS supports a number of measurements including absolute units such as inches, centimeters, points, and so on, as well as relative measures such as percentages and em units. You need these values while specifying various measurements in your Style rules e.g. border="1px solid red".
+							We have listed out all the CSS Measurement Units along with proper Examples:</p>
+							<h2 class="bod">
+								Embedded CSS - The Style Element
+							</h2> <br>
+							<table style="width:70%">
+							  <tr>
+							    <th><b>UNIT</b></th>
+							    <th><b>DESCRIPTION</b></th> 
+							    <th><b>Example</b></th>
+							  </tr>
+							  <tr>
+							    <th>%</th>
+							    <th>Defines a measurement as a percentage relative to another value, typically an enclosing element.</th> 
+							    <th>p {font-size: 16pt; line-height: 125%;}</th>
+							  </tr>
+							   <tr>
+							    <th>cm</th>
+							    <th>Defines a measurement in centimeters.</th> 
+							    <th>div {margin-bottom: 2cm;}</th>
+							  </tr>
+							   <tr>
+							    <th>em</th>
+							    <th>A relative measurement for the height of a font in em spaces. Because an em unit is equivalent to the size of a given font, if you assign a font to 12pt, each "em" unit would be 12pt; thus, 2em would be 24pt.</th> 
+							    <th>p {letter-spacing: 7em;}</th>
+							  </tr>
+							   <tr>
+							    <th>%</th>
+							    <th>Defines a measurement as a percentage relative to another value, typically an enclosing element.</th> 
+							    <th>p {font-size: 16pt; line-height: 125%;}</th>
+							  </tr>
+							   <tr>
+							    <th>cm</th>
+							    <th>Defines a measurement in centimeters.</th> 
+							    <th>div {margin-bottom: 2cm;}</th>
+							  </tr>
+							   <tr>
+							    <th>em</th>
+							    <th>A relative measurement for the height of a font in em spaces. Because an em unit is equivalent to the size of a given font, if you assign a font to 12pt, each "em" unit would be 12pt; thus, 2em would be 24pt.</th> 
+							    <th>p {letter-spacing: 7em;}</th>
+							  </tr>
+							  <tr>
+							    <th>%</th>
+							    <th>Defines a measurement as a percentage relative to another value, typically an enclosing element.</th> 
+							    <th>p {font-size: 16pt; line-height: 125%;}</th>
+							  </tr>
+							   <tr>
+							    <th>cm</th>
+							    <th>Defines a measurement in centimeters.</th> 
+							    <th>div {margin-bottom: 2cm;}</th>
+							  </tr>
+							   <tr>
+							    <th>em</th>
+							    <th>A relative measurement for the height of a font in em spaces. Because an em unit is equivalent to the size of a given font, if you assign a font to 12pt, each "em" unit would be 12pt; thus, 2em would be 24pt.</th> 
+							    <th>p {letter-spacing: 7em;}</th>
+							  </tr>
+							 </table>
+							 <br><br><br>
+							<br>
+							<h1 class="head">5.CSS ─ COLORS</h1>
+							<br><br><br>
+							<p>CSS uses color values to specify a color. Typically, these are used to set a color either for the foreground of an element (i.e., its text) or for the background of the element. They can also be used to affect the color of borders and other decorative effects.
+							You can specify your color values in various formats. Following table lists all the possible formats:</p>
+							<br>
+							<table style="width:70%">
+							  <tr>
+							    <th><b>Format</b></th>
+							    <th><b>Syntax</b></th> 
+							    <th><b>Example</b></th>
+							  </tr>
+							  <tr>
+							    <th>Hex Code</th>
+							    <th>#RRGGBB</th> 
+							    <th>p{color:#FF0000;}</th>
+							  </tr>
+							   <tr>
+							    <th>Short Hex Code</th>
+							    <th>#RGB</th> 
+							    <th>p{color:#6A7;}</th>
+							  </tr>
+							  </tr>
+							   <tr>
+							    <th>RGB</th>
+							    <th>rgb(rrr%,ggg%,bbb%)</th> 
+							    <th>p{color:rgb(50%,50%,50%);}</th>
+							  </tr>
+							  <tr>
+							    <th>RGB Absolute</th>
+							    <th>rgb(rrr,ggg,bbb)</th> 
+							    <th>p{color:rgb(0,0,255);}</th>
+							  </tr>
+							  <tr>
+							    <th>keyword</th>
+							    <th>aqua, black, etc.</th> 
+							    <th>p{color:teal;}</th>
+							  </tr>
+							 </table><br><br>
+							 These formats are explained in more detail in the following sections:<br><br>
+							 <h2 class="bod">
+								CSS Colors - Hex Codes
+							</h2>
+							<p>A hexadecimal is a 6 digit representation of a color. The first two digits (RR) represent a red value, the next two are a green value (GG), and the last are the blue value (BB). <br>
+							A hexadecimal value can be taken from any graphics software like Adobe Photoshop, Jasc Paintshop Pro, or even using Advanced Paint Brush. <br>
+							Each hexadecimal code will be preceded by a pound or hash sign ‘#’. Following are the examples to use Hexadecimal notation.</p>
+<br><br>
 
 </div>
 
