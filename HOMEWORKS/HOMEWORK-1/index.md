@@ -29,14 +29,12 @@ h2{
 
 </style>
 
-<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
 <body>
 
 
 <div class="container">
-	<div class="row">
-		<div class="class="background col-md-8 col-md-offset-2"">
+		<div class="class="background"">
 			<h1>HOME WORK-1 BASIC HTML PRACTICE</h1>
 			<h2>HEADER AND PARAGRAPH</h2>
 			<img src="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/image/Screenshot_1.png" width="100%"> 
@@ -87,7 +85,6 @@ h2{
 			<img src="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/image/Screenshot_16.png" width="100%"> 
 			<br><br>
 		</div>
-	</div>
 		<h1>THANK YOU</h1>
 </div>
 
