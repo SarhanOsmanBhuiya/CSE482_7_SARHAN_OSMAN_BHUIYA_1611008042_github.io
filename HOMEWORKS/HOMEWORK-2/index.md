@@ -19,8 +19,8 @@ table, th, td {
 
 <body>
 	<h1>CSE482L: Internet and Web Technology Summer'19(Task 3)</h1>
-	<p>Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript. <br>
-	Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.</p>
+	<p>Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript. <br> <br>
+	CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts.[3] This separation can improve content accessibility, provide more flexibility and control in the specification of presentation characteristics, enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, and reduce complexity and repetition in the structural content.</p>
 	<div class="table">
 		<table>
 			<tr>
@@ -35,7 +35,7 @@ table, th, td {
 			</tr>
 			<tr>
 				<th><b>CSS</b></th>
-				<th><img src="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/image/css.png" width="40%" height="30%"></th>
+				<th><img src="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/image/css.png" width="40%" height="25%"></th>
 				<th><b><a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">CLICK HERE</a></b></th>
 			</tr>
 		</table> <br><br>
