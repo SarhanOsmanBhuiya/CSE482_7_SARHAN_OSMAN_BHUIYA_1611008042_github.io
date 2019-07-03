@@ -30,12 +30,12 @@ table, th, td {
 			</tr>
 			<tr>
 				<th><b>HTML</b></th>
-				<th><img src="html.png"></th>
+				<th><img src="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/image/html.png" width="30%" height="30%"></th>
 				<th><b><a href="https://en.wikipedia.org/wiki/HTML">CLICK HERE</a></b></th>
 			</tr>
 			<tr>
 				<th><b>CSS</b></th>
-				<th><img src="css.png"></th>
+				<th><img src="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/image/css.png" width="30%" height="30%"></th>
 				<th><b><a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">CLICK HERE</a></b></th>
 			</tr>
 		</table>
