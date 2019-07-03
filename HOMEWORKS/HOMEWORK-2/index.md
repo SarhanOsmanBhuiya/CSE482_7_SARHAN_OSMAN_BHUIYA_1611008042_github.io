@@ -30,16 +30,28 @@ table, th, td {
 			</tr>
 			<tr>
 				<th><b>HTML</b></th>
-				<th><img src="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/image/html.png" width="40%" height="30%"></th>
+				<th><img src="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/image/html.png" width="30%" height="30%"></th>
 				<th><b><a href="https://en.wikipedia.org/wiki/HTML">CLICK HERE</a></b></th>
 			</tr>
 			<tr>
 				<th><b>CSS</b></th>
-				<th><img src="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/image/css.png" width="30%" height="20%"></th>
+				<th><img src="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/image/css.png" width="30%" height="30%"></th>
 				<th><b><a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">CLICK HERE</a></b></th>
 			</tr>
-		</table>
+		</table> <br><br>
 	</div>
+	<form action="">
+	  <b>Name:</b>
+	  <input type="text" name="" value="" placeholder="Your Name">
+	  <b>NSU ID:</b>
+	  <input type="text" name="" value="" placeholder="Your ID">
+		<br><br>
+		<input type="radio" name="gender" value="male" checked> <b>Male</b>
+	  <input type="radio" name="gender" value="female"> <b>Female</b>
+	  <input type="radio" name="gender" value="other"> <b>Other</b>
+	  <br><br>
+	  <input type="submit" value="Submit">
+	</form> 
 
 
 </body>
