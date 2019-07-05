@@ -39,6 +39,7 @@ table, th, td {
 	float: right;
 }
 
+
 </style>
 
 
@@ -67,7 +68,7 @@ table, th, td {
 <div class="heading2">
 	<h3>STUDENT INFORMATION</h3>
 	<p>
-		<b>SARHAN OSMAN BHUIYA</b> <img src="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/image/1.JPG" width="2cm" height="2cm">
+		<b>SARHAN OSMAN BHUIYA</b> 
 			<br> ID: 1611008042 
 			<br> Email: <a href="http://www.gmail.com/"> sarhan.osman@northsouth.edu </a>
 			<br>
