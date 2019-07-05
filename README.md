@@ -96,7 +96,7 @@ table, th, td {
 		</tr>
 		<tr>
 			<th><h3>Link for Homework-2</h3></th>
-			<th><h3><a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/HOMEWORKS/HOMEWORK-2/submit.md">HOMEWORK-2</a></h3></th> 
+			<th><h3><a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/HOMEWORKS/HOMEWORK-2/index.md">HOMEWORK-2</a></h3></th> 
 		</tr>
 				</table>
 </div>
