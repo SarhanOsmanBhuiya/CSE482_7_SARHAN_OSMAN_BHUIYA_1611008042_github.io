@@ -44,11 +44,9 @@ table, th, td {
 	
 <div class="heading">
 	<img class="ab" src="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/image/index.jpg">
-
 	<h1>NORTH SOUTH UNIVERSITY</h1>
 	<h3>DEPARTMENT OF ELECTRICAL & COMPUTER ENGINEERING</h3>
 </div>
-
 <div class="heading1">
 	<h3>CSE482L: Internet and Web Technology Lab Summer 2019 </h3>
 	<p>
@@ -73,8 +71,7 @@ table, th, td {
 				Phone Number: 01705679618
 			<br>
 				<p>Expert in HTML-5, CSS-3, BOOTSTRAP, PHP and JAVA-SCRIPT. <br>Working on web pages for 2 years. <br> Made 50+ web pages for different clients in Freelancer Platform.</p>
-			<br><br>
- 			
+			<br><br>	
 	</p>	 		
 </div>
 
