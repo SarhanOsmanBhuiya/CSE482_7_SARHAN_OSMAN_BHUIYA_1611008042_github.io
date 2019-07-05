@@ -103,7 +103,7 @@ table, th, td {
 			<th><h3><a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/HOMEWORKS/HOMEWORK-2/index.md">HOMEWORK-2</a></h3></th> 
 		</tr>
 		<tr>
-			<th><h3>Link for UPDATED UML DIAGRAM</h3></th>
+			<th><h3>Link for UPDATED UML DIAGRAM and Updated Homepage</h3></th>
 			<th><h3><a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/CHECKPOINT-2/UML-1.png">CHECKPOINT-2(PART-1)</a></h3>
 			<h3><a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/CHECKPOINT-2/UML-2.png">CHECKPOINT-2(PART-2)</a></h3>
 			</th> 
