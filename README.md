@@ -10,6 +10,7 @@ body{
 	background-color: #F1F8FF;
 	width: 80%;
 	margin-left: 4cm;
+	border:2px solid black;
 }
 	
 table, th, td {
@@ -22,21 +23,20 @@ table, th, td {
 	text-align:center;
 	font-size: 20px;
 	overflow: hidden;
-	background-color: #86509C;
-	color: white;
-	font-weight: bolder;
 }
 
 .heading1{
 	text-align:left;
 	font-size: 15px;
 	float: left;
+	margin-left: 2cm;
 }
 
 .heading2{
 	text-align:left;
 	font-size: 15px;
 	float: right;
+	margin-right: 2cm;
 }
 
 
@@ -101,6 +101,12 @@ table, th, td {
 		<tr>
 			<th><h3>Link for Homework-2</h3></th>
 			<th><h3><a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/HOMEWORKS/HOMEWORK-2/index.md">HOMEWORK-2</a></h3></th> 
+		</tr>
+		<tr>
+			<th><h3>Link for UPDATED UML DIAGRAM</h3></th>
+			<th><h3><a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/CHECKPOINT-2/UML-1.png">CHECKPOINT-2(PART-1)</a></h3>
+			<h3><a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/CHECKPOINT-2/UML-2.png">CHECKPOINT-2(PART-2)</a></h3>
+			</th> 
 		</tr>
 				</table>
 </div>
