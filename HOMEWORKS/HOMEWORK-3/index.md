@@ -26,12 +26,13 @@
   font-weight: bolder;
 }
 
-.a{
-  padding: 2px;
+.inputbox{
   padding-top: 5px;
   padding-bottom: 5px;
   margin-bottom: 15px;
   border-radius: 2px;
+  font-weight: bold;
+  width: 98%;
 }
 
 p{
@@ -76,7 +77,7 @@ p{
     <p>SAMPLE CALCULATOR</p>
   </div>
 	<form name="Calculator">
-	  <input class="a" type="text" name="answer" placeholder="">
+	  <input class="inputbox" type="text" name="answer" placeholder="">
 	  <br>
 	  <input class="box" type="button" value="1" onclick="Calculator.answer.value +='1'"/>
   	  <input class="box" type="button" value="2" onclick="Calculator.answer.value +='2'"/>
