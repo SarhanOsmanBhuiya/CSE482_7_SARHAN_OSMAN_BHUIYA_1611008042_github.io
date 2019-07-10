@@ -108,6 +108,10 @@ table, th, td {
 			<h3><a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/CHECKPOINT-2/UML-2.png">CHECKPOINT-2(PART-2)</a></h3>
 			</th> 
 		</tr>
+		<tr>
+			<th><h3>Link for CALCULATOR(JAVA SCRIPT AND CSS)</h3></th>
+			<th><h3><a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/HOMEWORKS/HOMEWORK-3/index.md">HOMEWORK-3</a></h3></th> 
+		</tr>
 				</table>
 </div>
 
