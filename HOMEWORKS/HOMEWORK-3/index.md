@@ -4,22 +4,23 @@
 </head>
 
 <style>
+
 .abc{
   width: 13%;
 	margin-left: 16cm;
 	margin-top: 4cm;
-  border:2px solid black;
+  border: 2px solid black;
   padding: 5px;
   text-align: center;
   background-color: #43423E;
-}
-
-.calculator{
-
+  border-radius: 5px;
 }
 
 .box{
-  padding: 14px;
+  padding-left: 14px;
+  padding-right: 15px;
+  padding-bottom: 10px;
+  padding-top: 10px;
   border-radius: 4px;
   margin-bottom: 2px;
   font-weight: bolder;
@@ -29,7 +30,7 @@
   padding: 2px;
   padding-top: 5px;
   padding-bottom: 5px;
-  margin-bottom: 5px;
+  margin-bottom: 15px;
   border-radius: 2px;
 }
 
@@ -43,11 +44,24 @@ p{
 }
 
 .box1{
-  padding: 14px;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-bottom: 10px;
+  padding-top: 10px;
   border-radius: 4px;
   margin-bottom: 2px;
   font-weight: bolder;
   background-color: #B37F8B;
+}
+
+.box2{
+  padding-left: 16px;
+  padding-right: 17px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border-radius: 4px;
+  margin-bottom: 2px;
+  font-weight: bolder;
 }
 
 </style>
@@ -72,7 +86,7 @@ p{
   	  <input class="box" type="button" value="4" onclick="Calculator.answer.value +='4'"/>
    	  <input class="box" type="button" value="5" onclick="Calculator.answer.value +='5'"/>
    	  <input class="box" type="button" value="6" onclick="Calculator.answer.value +='6'"/>
-   	  <input class="box" type="button" value="-" onclick="Calculator.answer.value +='-'"/>
+   	  <input class="box2" type="button" value="-" onclick="Calculator.answer.value +='-'"/>
    	  <br>
    	  <input class="box" type="button" value="7" onclick="Calculator.answer.value +='7'"/>
    	  <input class="box" type="button" value="8" onclick="Calculator.answer.value +='8'"/>
