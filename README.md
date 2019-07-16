@@ -52,11 +52,11 @@ body{
 }
 
 table, th, td {
-  border: 4px solid white;
+  border: 4px solid #414549;
   border-collapse: collapse;
   font-size: 15px;
   margin: auto;
-  color: white;
+  color: #414549;
   font-weight: bolder;
 }
 
@@ -74,14 +74,22 @@ table, th, td {
 	color: white;
 }
 
-.table h1, .heading h1{
+.table h1{
+	border:3px solid black;
+	padding: 10px;
+	background-color: #414549;
+	border-radius: 5px;
+	text-align: center;
+	font-weight:bold;
+}
+
+.heading h1{
 	border:3px solid white;
 	padding: 5px;
 	border-radius: 5px;
 	text-align: center;
 	font-weight:bolder;
 }
-
 .footer{
 	text-align: center;
 	background-color: #414549;
@@ -103,7 +111,6 @@ u{
 <br><br>
 	
 <div class="container">
-	
 	<div class="row heading">
 			<div class="col-md-3">
 				<img src="logo.png" height="125px">
