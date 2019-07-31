@@ -83,15 +83,9 @@ h2{
 			<h2>Generating an XML Document</h2>
 			<img src="15.png" width="100%"> 
 			<br><br>
-
-			
-
-		</div>
-		
+		</div>	
 	</div>
-
 		<h1>THANK YOU</h1>
-
 </div>
 
 </body>
