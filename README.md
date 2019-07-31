@@ -116,7 +116,6 @@ u{
 <br><br>
 	
 <div class="container">
-	
 	<div class="row heading">
 			<div class="col-md-3">
 				<img src="logo.png" height="125px">
