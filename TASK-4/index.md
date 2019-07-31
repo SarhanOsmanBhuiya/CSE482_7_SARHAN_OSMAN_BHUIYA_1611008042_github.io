@@ -1,1 +1,175 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>TASK-4 (PHP)</title>
+</head>
+<style type="">
+	
+.container{
+	text-align: center;
+}
 
+h1{
+	background-color:#373A3C;
+	color: white;
+	font-weight: bolder;
+	width: 100%;
+	border-radius: 5px;
+	padding: 3px;
+}
+
+h2{
+	background-color: #45D1D1;
+	color: white;
+	font-weight: bolder;
+	width: 100%;
+	border-radius: 5px;
+	padding: 3px;
+}
+
+</style>
+
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+<body>
+
+
+<div class="container">
+
+	<div class="row">
+
+		<div class="col-md-12">
+			
+			<h1>TASK-4 (PHP)</h1>
+
+			<h2>"Hello World" Script in PHP</h2>
+	
+			<img src="1.png" width="100%"> 
+
+			<br><br>
+
+
+
+			<h2>Canonical PHP tags</h2>
+	
+			<img src="2.png" width="100%"> 
+
+			<br><br>
+
+
+
+			<h2>Short-open (SGML-style) tags</h2>
+	
+			<img src="3.png" width="100%"> 
+
+			<br><br>
+
+
+
+			<h2>Commenting PHP Code</h2>
+	
+			<img src="4.png" width="100%"> 
+			<img src="4.1.png" width="100%"> 
+
+			<br><br>
+
+
+
+			<h2>PHP is whitespace insensitive</h2>
+	
+			<img src="5.png" width="100%"> 
+
+			<br><br>
+
+
+
+			<h2>PHP is case sensitive</h2>
+	
+			<img src="6.png" width="100%"> 
+
+			<br><br>
+
+
+
+			<h2>Statements are expressions terminated by semicolons</h2>
+	
+			<img src="7.png" width="100%"> 
+
+			<br><br>
+
+
+
+			<h2>Running PHP Script from Command Prompt</h2>
+	
+			<img src="8.png" width="100%"> 
+
+			<br><br>
+
+
+
+			<h2>PHP and AJAX Example</h2>
+	
+			<img src="9.png" width="100%"> 
+
+			<br><br>
+
+
+
+			<h2>Client-Side HTML file</h2>
+	
+			<img src="10.png" width="100%"> 
+
+			<br><br>
+
+
+
+			<h2>Server-Side PHP file</h2>
+	
+			<img src="11.png" width="100%"> 
+
+			<br><br>
+
+
+
+			<h2>HTML list that's not valid XML</h2>
+	
+			<img src="12.png" width="100%"> 
+
+			<br><br>
+
+
+
+			<h2>HTML list that is valid XML</h2>
+	
+			<img src="13.png" width="100%"> 
+
+			<br><br>
+
+
+
+			<h2>Parsing an XML Document</h2>
+	
+			<img src="14.png" width="100%"> 
+
+			<br><br>
+
+
+
+			<h2>Generating an XML Document</h2>
+	
+			<img src="15.png" width="100%"> 
+
+			<br><br>
+
+			
+
+		</div>
+		
+	</div>
+
+		<h1>THANK YOU</h1>
+
+</div>
+
+</body>
+</html>
