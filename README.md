@@ -17,12 +17,12 @@ body{
 	background-color: #1A265C;
 	color: white;
 	padding: 10px;
-	border-radius: 5px;
+	border-radius: 8px;
 }
 
 .details{
 	background-color: #E3C054;
-	border-radius: 5px;
+	border-radius: 8px;
 }
 
 .heading1{
@@ -38,7 +38,7 @@ body{
 .description{
 	background-color: #563D7C;
 	font-size: 20px;
-	border-radius: 5px;
+	border-radius: 8px;
 	padding: 25px;
 	color: white;
 }
@@ -60,21 +60,21 @@ table, th, td {
   font-weight: bolder;
 }
 
-.table h3{
+.table1 h3{
 	text-align: center;
 	padding: 10px;
 	font-weight: bold;
 }
 
-.table{
+.table1{
 	font-weight: bolder;
 	background-color: #CABAAD;
-	border-radius: 5px;
+	border-radius: 8px;
 	padding: 20px;
 	color: white;
 }
 
-.table h1{
+.table1 h1{
 	border:3px solid black;
 	padding: 10px;
 	background-color: #414549;
@@ -94,7 +94,12 @@ table, th, td {
 	text-align: center;
 	background-color: #414549;
 	color:white;
-	border-radius: 5px;
+	border-radius: 8px;
+}
+
+.footer p{
+	border-top: 2px solid black;
+	padding: 5px;
 }
 
 u{
@@ -111,6 +116,7 @@ u{
 <br><br>
 	
 <div class="container">
+	
 	<div class="row heading">
 			<div class="col-md-3">
 				<img src="logo.png" height="125px">
@@ -184,7 +190,7 @@ u{
 			<h3><u><b>Project Explanation</b></u></h3>
 			<p>The code and fix model probably is the most frequently used development methodology in software engineering. It starts with little or no initial planning. You immediately start developing, fixing problems as they occur, until the project is complete. <br>Code and fix is a tempting choice when you are faced with a tight development schedule because you begin developing code right away and see immediate results. <br>Unfortunately, if you find major architectural problems late in the process, you usually have to rewrite large parts of the application. Alternative development models can help you catch these problems in the early concept stages, when making changes is easier and less expensive.The code and fix model is appropriate only for small projects that are not intended to serve as the basis for future development.</p>
 		</div>
-	<div class="row table">
+	<div class="row table1">
 			<div class="col-md-8 col-md-offset-2">
 				<h1>LAB WORK AND HOMEWORKS</h1> <br>
 			</div>
@@ -226,18 +232,18 @@ u{
 					<th><h3>Completed Subsections <br> Completed Home Page <br>Explanation of the Followed Design</h3></th>
 					<th><h3><a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042">CHECKPOINT-3</a></h3></th> 
 				</tr>
+				<tr>
+					<th><h3>TASK-4(PHP and SQL)</h3></th>
+					<th><h3><a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/TASK-4/index.md">HOMEWORK-4 <br>(TASK-4)</a></h3></th> 
+				</tr>
 			</table>
-			<br>
+	</div>
 		<div class="row footer">
 			<div class="col-md-6 col-md-offset-3">
 				<h1>THANK YOU</h1>
-				<h1>SARHAN OSMAN BHUIYA ID-1611008042</h1>	
+				<h1>SARHAN OSMAN BHUIYA <br>ID-1611008042</h1>	
 				<p>Legal | Privacy   © 2019 Sarhan Osman Bhuiya. All rights reserved.</p>
 		</div>
-	</div>
-	</div>
-	
-
 </div>
 
 
