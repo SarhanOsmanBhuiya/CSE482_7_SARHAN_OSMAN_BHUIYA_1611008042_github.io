@@ -8,8 +8,6 @@
 body{
 	background-color: #F1F8FF;
 }
-	
-
 .heading{
 	text-align:center;
 	font-weight: bolder;
@@ -18,22 +16,18 @@ body{
 	padding: 10px;
 	border-radius: 8px;
 }
-
 .details{
 	background-color: #E3C054;
 	border-radius: 8px;
 }
-
 .heading1{
 	text-align:left;
 	font-size: 15px;
 }
-
 .heading2{
 	text-align:left;
 	font-size: 15px;
 }
-
 .description{
 	background-color: #563D7C;
 	font-size: 20px;
@@ -41,15 +35,12 @@ body{
 	padding: 25px;
 	color: white;
 }
-
 .description p{
 	text-align: justify;
 }
-
 .description h3{
 	text-align: center;
 }
-
 table, th, td {
   border: 4px solid #414549;
   border-collapse: collapse;
@@ -58,13 +49,11 @@ table, th, td {
   color: #414549;
   font-weight: bolder;
 }
-
 .table1 h3{
 	text-align: center;
 	padding: 10px;
 	font-weight: bold;
 }
-
 .table1{
 	font-weight: bolder;
 	background-color: #CABAAD;
@@ -72,7 +61,6 @@ table, th, td {
 	padding: 20px;
 	color: white;
 }
-
 .table1 h1{
 	border:3px solid black;
 	padding: 10px;
@@ -81,7 +69,6 @@ table, th, td {
 	text-align: center;
 	font-weight:bold;
 }
-
 .heading h1{
 	border:3px solid white;
 	padding: 5px;
@@ -95,25 +82,18 @@ table, th, td {
 	color:white;
 	border-radius: 8px;
 }
-
 .footer p{
 	border-top: 2px solid black;
 	padding: 5px;
 }
-
 u{
 	font-size: 25px;
 }
-
 </style>
-
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-
 <body>
-<br><br>
-	
+<br><br>	
 <div class="container">
 	<div class="row heading">
 			<div class="col-md-3">
