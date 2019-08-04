@@ -1,5 +1,3 @@
-# CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042
-
 <html>
 <head>
 	<title></title>
