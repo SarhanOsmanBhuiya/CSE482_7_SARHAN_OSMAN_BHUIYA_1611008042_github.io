@@ -96,9 +96,8 @@ u{
 <br><br>	
 <div class="container">
 	<div class="row heading">
-			<div class="col-md-3">
-				<img src="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042_github.io/blob/master/image/logo.png">
-			height="125px"</div>
+			<div class="col-md-3"><img height="125" src="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042_github.io/blob/master/image/logo.png">
+			</div>
 			<div class="col-md-8">
 				<h1>NORTH SOUTH UNIVERSITY</h1>
 				<h3>DEPARTMENT OF ELECTRICAL & COMPUTER ENGINEERING</h3>
