@@ -213,6 +213,10 @@ u{
 					<th><h3>TASK-4(PHP and SQL)</h3></th>
 					<th><h3><a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/TASK-4/index.md">HOMEWORK-4 <br>(TASK-4)</a></h3></th> 
 				</tr>
+				<tr>
+					<th><h3>Registration Form using SQL and PHP</h3></th>
+					<th><h3><a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042_github.io/blob/master/HOMEWORKS/HOMEWORK-5/README.md">HOMEWORK-5</a></h3></th> 
+				</tr>
 			</table>
 	</div>
 		<div class="row footer">
