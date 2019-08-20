@@ -176,46 +176,60 @@ u{
 				<tr>
 					<th><h3>CONTENT</h3></th>
 					<th><h3>LINKS</h3></th> 
+					<th><h3>DATE</h3></th>
 				</tr>  
 				<tr>
 					<th><h3>Homework-1 with Screen Shots</h3></th>
-					<th><h3><a 
-				   href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/HOMEWORKS/HOMEWORK-1/index.md">HOMEWORK-1</a></h3></th> 
+					<th><h3><a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/HOMEWORKS/HOMEWORK-1/index.md">HOMEWORK-1</a></h3></th> 
+				   <th><h3>30/06/19</h3></th>
 				</tr>
 				<tr>
 					<th><h3>Task2 pdf content written in HTML in the file Lecture2</h3></th>
 					<th><h3><a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/LECTURE2/index.md">LECTURE-2</a></h3></th> 
+					<th><h3>30/06/19</h3></th>
 				</tr>
 				<tr>
 					<th><h3>A Clear Scenario of my Personal Website <br> (Sections, Contains, Tool's toy
 					going to use) <br> AND <br> A UML Diagram of the project.</h3></th>
 					<th><h3><a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/Checkpoint1/UML%20DIAGRAM.jpg">CHECKPOINT-1</a></h3></th> 
+					<th><h3>30/06/19</h3></th>
 				</tr>
 				<tr>
 					<th><h3>Sample Assignment Submission Page</h3></th>
 					<th><h3><a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/HOMEWORKS/HOMEWORK-2/index.md">HOMEWORK-2</a></h3></th> 
+					<th><h3>05/07/19</h3></th>
 				</tr>
 				<tr>
 					<th><h3>Pages with HTML, CSS, JS <br>A Clear Picture of the Home Page <br>UPDATED UML DIAGRAM</h3></th>
 					<th><h3><a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/CHECKPOINT-2/UML-1.png">CHECKPOINT-2 <br>(PART-1)</a></h3>
 					<h3><a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/CHECKPOINT-2/UML-2.png">CHECKPOINT-2 <br>(PART-2)</a></h3>
 					</th> 
+					<th><h3>07/07/19</h3></th>
 				</tr>
 				<tr>
 					<th><h3>CALCULATOR( JAVA SCRIPT AND CSS )</h3></th>
 					<th><h3><a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/HOMEWORKS/HOMEWORK-3/index.md">HOMEWORK-3</a></h3></th> 
+					<th><h3>10/07/19</h3></th>
 				</tr>
 				<tr>
 					<th><h3>Completed Subsections <br> Completed Home Page <br>Explanation of the Followed Design</h3></th>
 					<th><h3><a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042">CHECKPOINT-3</a></h3></th> 
+					<th><h3>21/07/19</h3></th>
 				</tr>
 				<tr>
 					<th><h3>TASK-4(PHP and SQL)</h3></th>
 					<th><h3><a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042/blob/master/TASK-4/index.md">HOMEWORK-4 <br>(TASK-4)</a></h3></th> 
+					<th><h3>01/08/19</h3></th>
 				</tr>
 				<tr>
 					<th><h3>Registration Form using SQL and PHP</h3></th>
 					<th><h3><a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042_github.io/blob/master/HOMEWORKS/HOMEWORK-5/README.md">HOMEWORK-5</a></h3></th> 
+					<th><h3>18/08/19</h3></th>
+				</tr>
+				<tr>
+					<th><h3>Project Demo and Report Submit</h3></th>
+					<th><h3><a href="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042_github.io/tree/master/CHECKPOINT-4">CHECKPOINT-4</a></h3></th> 
+					<th><h3>28/08/19</h3></th>
 				</tr>
 			</table>
 	</div>
