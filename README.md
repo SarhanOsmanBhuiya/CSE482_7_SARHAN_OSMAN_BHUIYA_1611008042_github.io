@@ -257,8 +257,8 @@ u{
 					<u><h3>DOWNLOAD MY APPS</h3></u>
 		            	<div class="appimg">
 		            		<br>
-		                        <a href="https://play.google.com/store/apps"> <img src="play.jpg"></a>
-		                        <a href="#"> <img src="ios.jpg"></a>
+		                        <a href="https://play.google.com/store/apps"> <img src="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042_github.io/blob/master/play.jpg"></a>
+		                        <a href="#"> <img src="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042_github.io/blob/master/ios.jpg"></a>
 		            	</div>
 				</div>
 			</div>
