@@ -234,12 +234,42 @@ u{
 			</table>
 	</div>
 		<div class="row footer">
-			<div class="col-md-6 col-md-offset-3">
-				<h1>THANK YOU</h1>
-				<h1>SARHAN OSMAN BHUIYA <br>ID-1611008042</h1>	
-				<p>Legal | Privacy   © 2019 Sarhan Osman Bhuiya. All rights reserved.</p>
+			<div class="row">
+				<div class="col-md-4">
+					<div class="footer">
+						<u><h3>ABOUT US</h3></u>
+			            	<h3>SARHAN OSMAN BHUIYA <br>ID-1611008042</h3>
+					</div>
+				</div>
+			<div class="col-md-4">
+				<div class="footer">
+					<u><h3>FOLLOW US</h3></u>
+					<ul>
+		                    <li><a href="#https://twitter.com/login><i class="fa fa-twitter" aria-hidden="true">Twitter</i></a></li>
+		                    <li><a href="https://www.facebook.com/sarhansami007"><i class="fa fa-facebook" aria-hidden="true">Facebook</i></a></li>
+		                    <li><a href="https://www.instagram.com/"><i class="fa fa-instagram" aria-hidden="true">Instagram</i></a></li>
+		                    <li><a href="https://www.youtube.com/"><i class="fa fa-youtube" aria-hidden="true">Youtube</i></a></li>
+		            </ul>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="footer">
+					<u><h3>DOWNLOAD MY APPS</h3></u>
+		            	<div class="appimg">
+		            		<br>
+		                        <a href="#"> <img src="play.jpg"></a>
+		                        <a href="#"> <img src="ios.jpg"></a>
+		            	</div>
+				</div>
+			</div>
 		</div>
-</div>
+			<div class="row">
+					<div class="end">
+				                <p>Legal | Privacy   © 2019 Sarhan Osman Bhuiya. All rights reserved.</p>
+				    </div>
+			</div>
+		</div>
+
 
 
 
