@@ -245,7 +245,7 @@ u{
 				<div class="footer">
 					<u><h3>FOLLOW US</h3></u>
 					<ul>
-		                    <li><a href="https://twitter.com/login><i class="fa fa-twitter" aria-hidden="true">Twitter</i></a></li>
+		                    <li><a href="https://twitter.com/login"><i class="fa fa-twitter" aria-hidden="true">Twitter</i></a></li>
 		                    <li><a href="https://www.facebook.com/sarhansami007"><i class="fa fa-facebook" aria-hidden="true">Facebook</i></a></li>
 		                    <li><a href="https://www.instagram.com/"><i class="fa fa-instagram" aria-hidden="true">Instagram</i></a></li>
 		                    <li><a href="https://www.youtube.com/"><i class="fa fa-youtube" aria-hidden="true">Youtube</i></a></li>
