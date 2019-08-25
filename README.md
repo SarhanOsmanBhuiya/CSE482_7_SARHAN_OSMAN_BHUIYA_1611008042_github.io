@@ -130,7 +130,7 @@ u{
 						Phone Number: 01705679618
 				</div>
 				<div class="col-md-2">
-					<img src="sarhan.jpg" height="100px" width="100px>
+					<img src="sarhan.jpg" height="100px" width="100px">
 				</div>
 				<div class="col-md-12">
 					<br>
