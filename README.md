@@ -130,7 +130,7 @@ u{
 						Phone Number: 01705679618
 				</div>
 				<div class="col-md-2">
-					<img src="https://github.com/SarhanOsmanBhuiya/CSE482_7_SARHAN_OSMAN_BHUIYA_1611008042_github.io/blob/master/sarhan.jpg" height="100px">
+					<img src="image/sarhan.jpg" height="100px">
 				</div>
 				<div class="col-md-12">
 					<br>
