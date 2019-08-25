@@ -257,7 +257,7 @@ u{
 					<u><h3>DOWNLOAD MY APPS</h3></u>
 		            	<div class="appimg">
 		            		<br>
-		                        <a href="play.jpg"></a>
+		                        <a href="#"> <img src="play.jpg"></a>
 		                        <a href="#"> <img src="ios.jpg"></a>
 		            	</div>
 				</div>
